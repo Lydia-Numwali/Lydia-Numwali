@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Projexess](projexess.onrender.com)
 
-- 🌱 I’m currently learning **Spring Boot**
-
 - 👯 I’m looking to collaborate on **everyone**
 
 - 💬 Ask me about **react,next,typescript,java,python**
